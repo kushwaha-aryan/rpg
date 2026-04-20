@@ -94,19 +94,19 @@ const monsters = [
         name:"Slime",
         level:2,
         health:20,
-        img:"slime.webp"
+        img:"https://github.com/kushwaha-aryan/storage/blob/main/slime.webp?raw=true"
     },
     {
         name:"Fanged Beast",
         level:8,
         health:60,
-        img:"FangedBeast.webp"
+        img:"https://github.com/kushwaha-aryan/storage/blob/main/FangedBeast.webp?raw=true"
     },
     {
         name:"Dragon",
         level:20,
         health:300,
-        img:"Dragon.webp"
+        img:"https://github.com/kushwaha-aryan/storage/blob/main/Dragon.webp?raw=true"
     }
 ];
 
